@@ -27,7 +27,7 @@ In a separate shell, do this:
 
 Then once you're inside the container, do this:
 
-   /opt/MZD-AIO-TI/AIO
+    /opt/MZD-AIO-TI/AIO
 
 That should start the tweaks program.  After you compile your tweaks, AIO will write the results
 to the /root/Desktop/_copy_to_usb inside the container.  You can copy them back out of the containerlike this:
